@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Contini Aron</h1>
 <h3 align="center">Junior Cloud DevOps Engineer</h3>
 
-- 🔭 I’m currently working on [nvim-dock](https://github.com/contini-aron/nvim-dock)
+- 🔭 I’m currently working on [aws_wordpress](https://github.com/contini-aron/aws_wordpress)
 
 - 👯 I’m looking to collaborate on ...
 
