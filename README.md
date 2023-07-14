@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Contini Aron</h1>
 <h3 align="center">Junior Cloud DevOps Engineer</h3>
 
-- 🔭 I’m currently working on [aws_wordpress](https://github.com/contini-aron/aws_wordpress)
+- 🔭 I’m currently working on [ruvex](https://github.com/contini-aron/ruvex)
 
 - 👯 I’m looking to collaborate on ...
 
