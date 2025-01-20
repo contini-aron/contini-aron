@@ -5,14 +5,15 @@
 
 - 👯 I’m looking to collaborate on ...
 
-- 🌱 I’m currently learning **kubernetes, jenkins**
+- 🌱 I’m currently learning **dynatrace, jenkins**
 
 - 📫 How to reach me **contini.aron99@gmail.com**
 
 - 😄 Pronouns: He/Him
+  
 - ⚡ Fun fact: i can play the piano :)
 
-- 󱄅 I use NixOs btw, check my [config](https://github.com/contini-aron/nixos-conf)
+- 󱄅 I use NixOS btw, check my [config](https://github.com/contini-aron/nixos-conf), you can even try my standalone neovim config
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
