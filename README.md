@@ -12,7 +12,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i can play the piano :)
 
--   I use Arch btw
+- 󱄅 I use NixOs btw, check my [config](https://github.com/contini-aron/nixos-conf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
